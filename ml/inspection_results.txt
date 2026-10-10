@@ -1,0 +1,629 @@
+DATA FILES FOUND:
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/train_data.zip :: train_data.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/train_data.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/philox-testset-1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/philox-testset-2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/test_data.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/test_data_private.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/pyarrow/tests/data/parquet/v0.7.1.all-named-index.parquet
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/pyarrow/tests/data/parquet/v0.7.1.column-metadata-handling.parquet
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/pyarrow/tests/data/parquet/v0.7.1.parquet
+- /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/.venv/lib/python3.12/site-packages/pyarrow/tests/data/parquet/v0.7.1.some-named-index.parquet
+
+Selected file: /home/rahul/Downloads/Collision Avoidance Challenge - Dataset/kelvins_competition_data/train_data.zip
+Inside ZIP: train_data.csv
+
+=================================================================
+1. DATASET OVERVIEW
+=================================================================
+Rows: 162634
+Columns: 103
+Memory usage (MB): 128.8
+
+Column names:
+  1. event_id
+  2. time_to_tca
+  3. mission_id
+  4. risk
+  5. max_risk_estimate
+  6. max_risk_scaling
+  7. miss_distance
+  8. relative_speed
+  9. relative_position_r
+ 10. relative_position_t
+ 11. relative_position_n
+ 12. relative_velocity_r
+ 13. relative_velocity_t
+ 14. relative_velocity_n
+ 15. t_time_lastob_start
+ 16. t_time_lastob_end
+ 17. t_recommended_od_span
+ 18. t_actual_od_span
+ 19. t_obs_available
+ 20. t_obs_used
+ 21. t_residuals_accepted
+ 22. t_weighted_rms
+ 23. t_rcs_estimate
+ 24. t_cd_area_over_mass
+ 25. t_cr_area_over_mass
+ 26. t_sedr
+ 27. t_j2k_sma
+ 28. t_j2k_ecc
+ 29. t_j2k_inc
+ 30. t_ct_r
+ 31. t_cn_r
+ 32. t_cn_t
+ 33. t_crdot_r
+ 34. t_crdot_t
+ 35. t_crdot_n
+ 36. t_ctdot_r
+ 37. t_ctdot_t
+ 38. t_ctdot_n
+ 39. t_ctdot_rdot
+ 40. t_cndot_r
+ 41. t_cndot_t
+ 42. t_cndot_n
+ 43. t_cndot_rdot
+ 44. t_cndot_tdot
+ 45. c_object_type
+ 46. c_time_lastob_start
+ 47. c_time_lastob_end
+ 48. c_recommended_od_span
+ 49. c_actual_od_span
+ 50. c_obs_available
+ 51. c_obs_used
+ 52. c_residuals_accepted
+ 53. c_weighted_rms
+ 54. c_rcs_estimate
+ 55. c_cd_area_over_mass
+ 56. c_cr_area_over_mass
+ 57. c_sedr
+ 58. c_j2k_sma
+ 59. c_j2k_ecc
+ 60. c_j2k_inc
+ 61. c_ct_r
+ 62. c_cn_r
+ 63. c_cn_t
+ 64. c_crdot_r
+ 65. c_crdot_t
+ 66. c_crdot_n
+ 67. c_ctdot_r
+ 68. c_ctdot_t
+ 69. c_ctdot_n
+ 70. c_ctdot_rdot
+ 71. c_cndot_r
+ 72. c_cndot_t
+ 73. c_cndot_n
+ 74. c_cndot_rdot
+ 75. c_cndot_tdot
+ 76. t_span
+ 77. c_span
+ 78. t_h_apo
+ 79. t_h_per
+ 80. c_h_apo
+ 81. c_h_per
+ 82. geocentric_latitude
+ 83. azimuth
+ 84. elevation
+ 85. mahalanobis_distance
+ 86. t_position_covariance_det
+ 87. c_position_covariance_det
+ 88. t_sigma_r
+ 89. c_sigma_r
+ 90. t_sigma_t
+ 91. c_sigma_t
+ 92. t_sigma_n
+ 93. c_sigma_n
+ 94. t_sigma_rdot
+ 95. c_sigma_rdot
+ 96. t_sigma_tdot
+ 97. c_sigma_tdot
+ 98. t_sigma_ndot
+ 99. c_sigma_ndot
+100. F10
+101. F3M
+102. SSN
+103. AP
+
+First 5 rows:
+   event_id  time_to_tca  mission_id       risk  max_risk_estimate  max_risk_scaling  miss_distance  relative_speed  relative_position_r  relative_position_t  relative_position_n  relative_velocity_r  relative_velocity_t  relative_velocity_n  t_time_lastob_start  t_time_lastob_end  t_recommended_od_span  t_actual_od_span  t_obs_available  t_obs_used  t_residuals_accepted  t_weighted_rms  t_rcs_estimate  t_cd_area_over_mass  t_cr_area_over_mass    t_sedr    t_j2k_sma  t_j2k_ecc  t_j2k_inc    t_ct_r    t_cn_r    t_cn_t  t_crdot_r  t_crdot_t  t_crdot_n  t_ctdot_r  t_ctdot_t  t_ctdot_n  t_ctdot_rdot  t_cndot_r  t_cndot_t  t_cndot_n  t_cndot_rdot  t_cndot_tdot c_object_type  c_time_lastob_start  c_time_lastob_end  c_recommended_od_span  c_actual_od_span  c_obs_available  c_obs_used  c_residuals_accepted  c_weighted_rms  c_rcs_estimate  c_cd_area_over_mass  c_cr_area_over_mass    c_sedr    c_j2k_sma  c_j2k_ecc  c_j2k_inc    c_ct_r    c_cn_r    c_cn_t  c_crdot_r  c_crdot_t  c_crdot_n  c_ctdot_r  c_ctdot_t  c_ctdot_n  c_ctdot_rdot  c_cndot_r  c_cndot_t  c_cndot_n  c_cndot_rdot  c_cndot_tdot  t_span  c_span     t_h_apo     t_h_per     c_h_apo     c_h_per  geocentric_latitude    azimuth  elevation  mahalanobis_distance  t_position_covariance_det  c_position_covariance_det  t_sigma_r   c_sigma_r   t_sigma_t     c_sigma_t  t_sigma_n  c_sigma_n  t_sigma_rdot  c_sigma_rdot  t_sigma_tdot  c_sigma_tdot  t_sigma_ndot  c_sigma_ndot   F10   F3M   SSN    AP
+0         0     1.566798           5 -10.204955          -7.834756          8.602101        14923.0         13792.0                453.8               5976.6             -13666.8                 -7.2             -12637.0              -5525.9                  1.0                0.0                   3.78              3.78              459         458                  98.9           1.265           0.402             0.013826             0.007173  0.000051  6996.918867   0.003997  97.806412 -0.397969  0.292258  0.040799   0.394221  -0.999674  -0.038498  -0.981098   0.214612  -0.316493     -0.210247   0.170737  -0.001551   0.531593      0.002117     -0.179278       UNKNOWN                180.0                2.0                  15.85             15.85             15.0        15.0                 100.0            2.36             NaN             0.348701             0.126607  0.001406  7006.607320   0.003144  74.045735 -0.824859  0.473976 -0.002576   0.825216  -0.999998   0.003565  -0.732954   0.220006  -0.814249     -0.220621   0.249855   0.196620   0.722186     -0.196908     -0.668487     1.0     2.0  646.745439  590.818294  650.497251  606.443389           -73.574095 -23.618769   0.029910            129.430951              737347.125225               4.429923e+16   4.057932  266.722309  137.617114  54366.864909   1.781418  46.612573      0.147350     58.272095      0.004092      0.165044      0.002987      0.386462  89.0  83.0  42.0  11.0
+1         0     1.207494           5 -10.355758          -7.848937          8.956374        14544.0         13792.0                474.3               5821.2             -13319.8                 -7.0             -12637.0              -5525.9                  1.0                0.0                   3.79              3.79              456         455                  98.5           1.270           0.402             0.013487             0.009139  0.000060  6996.920255   0.003996  97.806420 -0.073137  0.297366  0.060541   0.069652  -0.998192  -0.052511  -0.994240  -0.029644  -0.302333      0.034030   0.179696   0.001552   0.561142     -0.005165     -0.181036       UNKNOWN                180.0                2.0                  15.85             15.85             15.0        15.0                 100.0            2.36             NaN             0.348701             0.126607  0.001406  7006.621053   0.003144  74.045736 -0.818207  0.482754 -0.003578   0.818573  -0.999998   0.004574  -0.728759   0.202595  -0.817490     -0.203216   0.258964   0.195718   0.721903     -0.196008     -0.674979     1.0     2.0  646.743506  590.823004  650.513314  606.454793           -73.570690 -23.618769   0.029079            271.540424              114138.993569               4.378610e+16   3.526780  262.191819   56.070117  54082.067268   1.800959  46.595869      0.059672     57.966413      0.003753      0.164383      0.002933      0.386393  89.0  83.0  42.0  11.0
+2         0     0.952193           5 -10.345631          -7.847406          8.932195        14475.0         13792.0                474.6               5796.2             -13256.1                 -7.0             -12637.0              -5525.9                  1.0                0.0                   3.79              3.80              456         455                  98.5           1.257           0.402             0.013357             0.007057  0.000060  6996.920553   0.003996  97.806418 -0.109230  0.305189  0.043711   0.107079  -0.996235  -0.034287  -0.996674   0.033933  -0.308501     -0.030161   0.123760   0.019630   0.579274     -0.023726     -0.125737       UNKNOWN                180.0                2.0                  15.85             15.85             15.0        15.0                 100.0            2.36             NaN             0.348701             0.126607  0.001406  7006.623524   0.003144  74.045737 -0.817408  0.483828 -0.003742   0.817774  -0.999998   0.004738  -0.729083   0.201698  -0.817662     -0.202320   0.260092   0.195558   0.721854     -0.195849     -0.675347     1.0     2.0  646.745607  590.821499  650.515082  606.457965           -73.570088 -23.618769   0.029079            347.899292               46960.041117               4.369105e+16   3.362037  261.666544   37.497947  54027.391201   1.821940  46.592757      0.039258     57.907599      0.003576      0.164352      0.002967      0.386381  89.0  83.0  42.0  11.0
+3         0     0.579669           5 -10.337809          -7.845880          8.913444        14579.0         13792.0                472.7               5838.9             -13350.7                 -7.0             -12637.0              -5525.9                  1.0                0.0                   3.86              3.86              443         442                  98.4           1.254           0.402             0.013490             0.005480  0.000065  6996.920276   0.003997  97.806423  0.021588  0.423647  0.157544  -0.032072  -0.990913  -0.149998  -0.998856  -0.059398  -0.427166      0.072214   0.228051   0.039163   0.547564     -0.049976     -0.229497       UNKNOWN                180.0                2.0                  15.85             15.85             15.0        15.0                 100.0            2.36             NaN             0.348701             0.126607  0.001406  7006.622932   0.003144  74.045736 -0.817557  0.483678 -0.003760   0.817923  -0.999998   0.004755  -0.728092   0.200534  -0.817883     -0.201155   0.259681   0.195808   0.721874     -0.196097     -0.675656     1.0     2.0  646.747747  590.818806  650.515635  606.456229           -73.571021 -23.618769   0.029079            435.376626               12454.776555               4.382408e+16   3.075781  261.759718   22.232870  54107.605750   1.826767  46.597586      0.022066     57.993905      0.003298      0.164309      0.002918      0.386400  89.0  83.0  40.0  14.0
+4         0     0.257806           5 -10.391260          -7.852942          9.036838        14510.0         13792.0                478.7               5811.1             -13288.0                 -7.0             -12637.0              -5525.9                  1.0                0.0                   3.86              3.86              440         439                  98.8           1.340           0.402             0.013906             0.007339  0.000068  6996.920446   0.003996  97.806426  0.417865  0.406002  0.246911  -0.465256  -0.983144  -0.243006  -0.999749  -0.430895  -0.405723      0.479990   0.223469   0.118674   0.543475     -0.143542     -0.224060       UNKNOWN                180.0                2.0                  15.85             15.85             15.0        15.0                 100.0            2.36             NaN             0.348701             0.126607  0.001406  7006.626646   0.003144  74.045736 -0.815980  0.485794 -0.004081   0.816347  -0.999998   0.005077  -0.727257   0.196662  -0.818575     -0.197284   0.261753   0.195657   0.721794     -0.195947     -0.677041     1.0     2.0  646.745868  590.821024  650.519613  606.459678           -73.570409 -23.618769   0.029079            469.178802                7827.098153               4.374142e+16   3.392176  260.727425   16.110807  54063.675421   1.958295  46.594699      0.015075     57.946717      0.003670      0.164172      0.003220      0.386388  89.0  83.0  40.0  14.0
+
+=================================================================
+2. DATA TYPES
+=================================================================
+event_id                       int64
+time_to_tca                  float64
+mission_id                     int64
+risk                         float64
+max_risk_estimate            float64
+max_risk_scaling             float64
+miss_distance                float64
+relative_speed               float64
+relative_position_r          float64
+relative_position_t          float64
+relative_position_n          float64
+relative_velocity_r          float64
+relative_velocity_t          float64
+relative_velocity_n          float64
+t_time_lastob_start          float64
+t_time_lastob_end            float64
+t_recommended_od_span        float64
+t_actual_od_span             float64
+t_obs_available                int64
+t_obs_used                     int64
+t_residuals_accepted         float64
+t_weighted_rms               float64
+t_rcs_estimate               float64
+t_cd_area_over_mass          float64
+t_cr_area_over_mass          float64
+t_sedr                       float64
+t_j2k_sma                    float64
+t_j2k_ecc                    float64
+t_j2k_inc                    float64
+t_ct_r                       float64
+t_cn_r                       float64
+t_cn_t                       float64
+t_crdot_r                    float64
+t_crdot_t                    float64
+t_crdot_n                    float64
+t_ctdot_r                    float64
+t_ctdot_t                    float64
+t_ctdot_n                    float64
+t_ctdot_rdot                 float64
+t_cndot_r                    float64
+t_cndot_t                    float64
+t_cndot_n                    float64
+t_cndot_rdot                 float64
+t_cndot_tdot                 float64
+c_object_type                    str
+c_time_lastob_start          float64
+c_time_lastob_end            float64
+c_recommended_od_span        float64
+c_actual_od_span             float64
+c_obs_available              float64
+c_obs_used                   float64
+c_residuals_accepted         float64
+c_weighted_rms               float64
+c_rcs_estimate               float64
+c_cd_area_over_mass          float64
+c_cr_area_over_mass          float64
+c_sedr                       float64
+c_j2k_sma                    float64
+c_j2k_ecc                    float64
+c_j2k_inc                    float64
+c_ct_r                       float64
+c_cn_r                       float64
+c_cn_t                       float64
+c_crdot_r                    float64
+c_crdot_t                    float64
+c_crdot_n                    float64
+c_ctdot_r                    float64
+c_ctdot_t                    float64
+c_ctdot_n                    float64
+c_ctdot_rdot                 float64
+c_cndot_r                    float64
+c_cndot_t                    float64
+c_cndot_n                    float64
+c_cndot_rdot                 float64
+c_cndot_tdot                 float64
+t_span                       float64
+c_span                       float64
+t_h_apo                      float64
+t_h_per                      float64
+c_h_apo                      float64
+c_h_per                      float64
+geocentric_latitude          float64
+azimuth                      float64
+elevation                    float64
+mahalanobis_distance         float64
+t_position_covariance_det    float64
+c_position_covariance_det    float64
+t_sigma_r                    float64
+c_sigma_r                    float64
+t_sigma_t                    float64
+c_sigma_t                    float64
+t_sigma_n                    float64
+c_sigma_n                    float64
+t_sigma_rdot                 float64
+c_sigma_rdot                 float64
+t_sigma_tdot                 float64
+c_sigma_tdot                 float64
+t_sigma_ndot                 float64
+c_sigma_ndot                 float64
+F10                          float64
+F3M                          float64
+SSN                          float64
+AP                           float64
+
+=================================================================
+3. MISSING VALUES
+=================================================================
+                       missing_count  missing_percent
+c_rcs_estimate                 52841            32.49
+t_ctdot_t                       9230             5.68
+t_ctdot_r                       9230             5.68
+t_crdot_t                       9230             5.68
+t_crdot_n                       9230             5.68
+t_crdot_r                       9230             5.68
+t_ctdot_rdot                    9230             5.68
+c_cndot_t                       9241             5.68
+c_cndot_n                       9241             5.68
+c_ctdot_n                       9241             5.68
+c_ctdot_t                       9241             5.68
+c_ctdot_r                       9241             5.68
+c_crdot_n                       9241             5.68
+c_crdot_t                       9241             5.68
+c_crdot_r                       9241             5.68
+t_sigma_ndot                    9230             5.68
+c_sigma_ndot                    9241             5.68
+c_cndot_rdot                    9241             5.68
+c_cndot_tdot                    9241             5.68
+t_sigma_tdot                    9230             5.68
+c_sigma_tdot                    9241             5.68
+c_sigma_rdot                    9241             5.68
+t_sigma_rdot                    9230             5.68
+c_cndot_r                       9241             5.68
+c_ctdot_rdot                    9241             5.68
+t_cndot_rdot                    9230             5.68
+t_cndot_tdot                    9230             5.68
+t_cndot_t                       9230             5.68
+t_cndot_n                       9230             5.68
+t_cndot_r                       9230             5.68
+t_ctdot_n                       9230             5.68
+AP                              6822             4.19
+SSN                             6822             4.19
+F10                             6822             4.19
+F3M                             6822             4.19
+t_rcs_estimate                  3277             2.01
+c_time_lastob_end                 11             0.01
+c_ct_r                            11             0.01
+c_cn_t                            11             0.01
+c_sigma_n                         11             0.01
+c_recommended_od_span             11             0.01
+c_obs_available                   11             0.01
+c_actual_od_span                  11             0.01
+c_weighted_rms                    11             0.01
+c_residuals_accepted              11             0.01
+c_sigma_r                         11             0.01
+c_cn_r                            11             0.01
+c_obs_used                        11             0.01
+c_sigma_t                         11             0.01
+c_time_lastob_start               11             0.01
+
+=================================================================
+4. DUPLICATES AND CONSTANT FEATURES
+=================================================================
+Exact duplicate rows: 0
+Constant columns: []
+
+=================================================================
+5. POSSIBLE TARGET COLUMNS
+=================================================================
+
+event_id: unique non-null values = 13154
+event_id
+5319     23
+7088     23
+11942    23
+66       22
+220      22
+278      22
+339      22
+346      22
+389      22
+661      22
+681      22
+801      22
+848      22
+860      22
+1247     22
+Numeric summary:
+count    162634.000000
+mean       6566.871798
+std        3798.407314
+min           0.000000
+25%        3306.000000
+50%        6558.000000
+75%        9867.000000
+max       13153.000000
+
+risk: unique non-null values = 62063
+risk
+-30.000000    67240
+-14.418050     1166
+-13.940815      867
+-14.546835      671
+-14.295592      372
+-14.187621      220
+-14.517841      205
+-15.532096      165
+-14.134126      143
+-14.310159      122
+-14.245728      106
+-13.664743      101
+-13.971429       80
+-14.031470       68
+-14.403953       63
+Numeric summary:
+count    162634.000000
+mean        -19.340603
+std          10.011641
+min         -30.000000
+25%         -30.000000
+50%         -17.870632
+75%          -9.173294
+max          -1.442854
+
+max_risk_estimate: unique non-null values = 37140
+max_risk_estimate
+-5.940058    38
+-5.977984    36
+-5.994819    36
+-5.993106    36
+-6.998699    36
+-6.930332    36
+-5.973467    35
+-6.911510    35
+-6.985060    35
+-5.986320    34
+-5.934420    34
+-5.991826    34
+-6.985900    33
+-5.972650    33
+-5.975104    33
+Numeric summary:
+count    162634.000000
+mean         -6.282332
+std           1.012544
+min          -9.814175
+25%          -7.005199
+50%          -6.326610
+75%          -5.620559
+max          -1.082442
+
+max_risk_scaling: unique non-null values = 162081
+max_risk_scaling
+3.007707e+01    2
+3.719853e+01    2
+5.460549e+01    2
+1.015785e+02    2
+2.734579e+01    2
+6.486091e+01    2
+1.529858e+02    2
+1.971148e+02    2
+4.945446e+02    2
+7.363883e+02    2
+1.403428e+02    2
+4.609337e-07    2
+2.522660e+01    2
+3.889127e+01    2
+1.603327e+05    2
+Numeric summary:
+count    1.626340e+05
+mean     5.374025e+04
+std      9.086958e+05
+min      1.070790e-13
+25%      8.323929e+00
+50%      3.174490e+01
+75%      3.047437e+02
+max      4.982976e+07
+
+=================================================================
+6. LOW-CARDINALITY COLUMNS (POSSIBLE CLASS LABELS)
+=================================================================
+
+t_time_lastob_start (3 unique values)
+t_time_lastob_start
+1.0      162506
+2.0         103
+180.0        25
+
+t_time_lastob_end (3 unique values)
+t_time_lastob_end
+0.0    162506
+1.0       103
+2.0        25
+
+c_object_type (5 unique values)
+c_object_type
+DEBRIS         94470
+UNKNOWN        50542
+PAYLOAD        15498
+ROCKET BODY     1947
+TBA              177
+
+c_time_lastob_start (3 unique values)
+c_time_lastob_start
+1.0      102159
+180.0     35429
+2.0       25035
+NaN          11
+
+c_time_lastob_end (3 unique values)
+c_time_lastob_end
+0.0    102159
+2.0     35429
+1.0     25035
+NaN        11
+
+=================================================================
+7. NUMERIC FEATURE SUMMARY
+=================================================================
+                              count          mean           std           min            1%           25%           50%           75%           99%           max
+event_id                   162634.0  6.566872e+03  3.798407e+03  0.000000e+00  1.230000e+02  3.306000e+03  6.558000e+03  9.867000e+03  1.303400e+04  1.315300e+04
+time_to_tca                162634.0  3.350190e+00  2.013114e+00 -1.498081e-01  4.877746e-02  1.588082e+00  3.297624e+00  5.083665e+00  6.866416e+00  6.993832e+00
+mission_id                 162634.0  7.117786e+00  5.800144e+00  1.000000e+00  1.000000e+00  2.000000e+00  5.000000e+00  9.000000e+00  1.900000e+01  2.400000e+01
+risk                       162634.0 -1.934060e+01  1.001164e+01 -3.000000e+01 -3.000000e+01 -3.000000e+01 -1.787063e+01 -9.173294e+00 -4.480784e+00 -1.442854e+00
+max_risk_estimate          162634.0 -6.282332e+00  1.012544e+00 -9.814175e+00 -8.406271e+00 -7.005199e+00 -6.326610e+00 -5.620559e+00 -3.728544e+00 -1.082442e+00
+max_risk_scaling           162634.0  5.374025e+04  9.086958e+05  1.070790e-13  3.258436e-08  8.323929e+00  3.174490e+01  3.047437e+02  4.999625e+05  4.982976e+07
+miss_distance              162634.0  1.653166e+04  1.426903e+04  9.000000e+00  2.560000e+02  4.683000e+03  1.243900e+04  2.528100e+04  5.543368e+04  6.737300e+04
+relative_speed             162634.0  1.065582e+04  4.340236e+03  4.000000e+00  1.990000e+02  7.421000e+03  1.226200e+04  1.448800e+04  1.521100e+04  1.713800e+04
+relative_position_r        162634.0 -4.019845e+01  6.441926e+02 -4.815000e+03 -1.824734e+03 -3.014750e+02 -2.730000e+01  2.368000e+02  1.782667e+03  5.284100e+03
+relative_position_t        162634.0  5.357834e+01  1.478030e+04 -6.218420e+04 -4.057253e+04 -5.773950e+03  6.000000e-01  5.827200e+03  4.107437e+04  6.218430e+04
+relative_position_n        162634.0  9.525344e+01  1.606342e+04 -5.099550e+04 -4.479853e+04 -6.974325e+03  3.895000e+01  7.434675e+03  4.367951e+04  5.099680e+04
+relative_velocity_r        162634.0  2.826531e-02  1.451049e+02 -2.295300e+03 -3.548380e+02 -2.430000e+01 -8.000000e-01  2.440000e+01  3.038000e+02  2.284800e+03
+relative_velocity_t        162634.0 -8.761327e+03  5.244684e+03 -1.692400e+04 -1.518620e+04 -1.394600e+04 -9.915500e+03 -3.645500e+03 -2.500000e+00  3.312000e+02
+relative_velocity_n        162634.0 -5.400908e+01  5.301272e+03 -1.005660e+04 -7.595600e+03 -5.209800e+03 -1.280000e+02  5.045700e+03  7.608400e+03  1.001130e+04
+t_time_lastob_start        162634.0  1.028149e+00  2.219278e+00  1.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00  1.800000e+02
+t_time_lastob_end          162634.0  9.407627e-04  3.531748e-02  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  2.000000e+00
+t_recommended_od_span      162634.0  4.032207e+00  1.108141e+00  1.310000e+00  1.640000e+00  3.500000e+00  3.780000e+00  3.960000e+00  7.550000e+00  1.442000e+01
+t_actual_od_span           162634.0  3.799743e+00  1.312433e+00  1.000000e-02  6.300000e-01  3.460000e+00  3.710000e+00  3.920000e+00  7.550000e+00  8.660000e+00
+t_obs_available            162634.0  9.526844e+02  1.023700e+03  2.900000e+01  1.710000e+02  4.300000e+02  4.830000e+02  7.270000e+02  3.415000e+03  4.467000e+03
+t_obs_used                 162634.0  9.076692e+02  1.014130e+03  6.000000e+00  6.000000e+01  3.980000e+02  4.670000e+02  7.200000e+02  3.408000e+03  4.464000e+03
+t_residuals_accepted       162634.0  9.890800e+01  1.616079e+00  6.800000e+00  9.320000e+01  9.880000e+01  9.920000e+01  9.950000e+01  1.000000e+02  1.000000e+02
+t_weighted_rms             162634.0  1.123267e+00  1.644617e-01  5.250000e-01  8.100000e-01  9.980000e-01  1.107000e+00  1.243000e+00  1.479000e+00  2.930000e+00
+t_rcs_estimate             159357.0  2.960459e+00  2.371640e+00  1.110000e-02  3.249000e-01  4.465000e-01  2.645700e+00  4.226000e+00  1.438320e+01  2.796140e+01
+t_cd_area_over_mass        162634.0  1.314319e-02  8.264292e-03 -9.869232e-02 -6.512710e-03  8.162020e-03  1.259592e-02  1.655100e-02  3.195200e-02  3.719080e-01
+t_cr_area_over_mass        162634.0  1.131930e-02  1.100763e-02  0.000000e+00  0.000000e+00  4.615000e-03  9.398000e-03  1.476657e-02  5.772625e-02  1.175260e-01
+t_sedr                     162634.0  1.214658e-04  5.692757e-04 -1.713400e-04 -1.187630e-05  1.265220e-05  1.918060e-05  3.823440e-05  2.144627e-03  1.204390e-02
+t_j2k_sma                  162634.0  7.039421e+03  1.082346e+02  6.675032e+03  6.803036e+03  6.995626e+03  7.064011e+03  7.098529e+03  7.196749e+03  7.211095e+03
+t_j2k_ecc                  162634.0  1.904228e-03  1.586687e-03  3.034515e-05  3.269736e-04  8.589769e-04  1.682338e-03  2.734004e-03  4.939323e-03  2.061974e-02
+t_j2k_inc                  162634.0  9.540863e+01  4.207044e+00  8.723664e+01  8.724760e+01  9.202399e+01  9.789321e+01  9.831923e+01  9.880135e+01  9.884836e+01
+t_ct_r                     162634.0 -9.942161e-02  3.061966e-01 -9.999287e-01 -9.667074e-01 -2.282368e-01 -9.283128e-02  3.473314e-02  7.760987e-01  9.997752e-01
+t_cn_r                     162634.0  1.387129e-01  2.789932e-01 -9.824259e-01 -6.949755e-01 -1.174760e-02  1.336207e-01  3.258746e-01  7.350342e-01  9.968752e-01
+t_cn_t                     162634.0  1.964527e-03  8.881696e-02 -9.746079e-01 -2.516767e-01 -3.697914e-02  0.000000e+00  3.856087e-02  2.558662e-01  9.867190e-01
+t_crdot_r                  153404.0  8.931249e-02  2.851504e-01 -9.997701e-01 -7.285341e-01 -4.104784e-02  9.182775e-02  2.217100e-01  9.376543e-01  9.999294e-01
+t_crdot_t                  153404.0 -9.734061e-01  1.263628e-01 -1.000001e+00 -9.999994e-01 -9.996254e-01 -9.977633e-01 -9.905606e-01  0.000000e+00  6.030489e-01
+t_crdot_n                  153404.0  2.264485e-04  8.651995e-02 -9.874510e-01 -2.416506e-01 -3.623888e-02  7.053118e-06  3.799572e-02  2.434437e-01  9.720857e-01
+t_ctdot_r                  153404.0 -9.717939e-01  1.547387e-01 -1.000000e+00 -9.999965e-01 -9.999061e-01 -9.996765e-01 -9.984060e-01  0.000000e+00  9.907316e-01
+t_ctdot_t                  153404.0  4.544250e-02  2.703822e-01 -9.949528e-01 -7.640963e-01 -6.837023e-02  5.026646e-02  1.684617e-01  8.413950e-01  9.988516e-01
+t_ctdot_n                  153404.0 -1.439932e-01  2.834057e-01 -9.974562e-01 -7.437337e-01 -3.341048e-01 -1.449343e-01  6.842898e-03  7.050459e-01  9.830701e-01
+t_ctdot_rdot               153404.0 -4.949791e-02  2.644859e-01 -9.992930e-01 -8.356115e-01 -1.719143e-01 -5.292689e-02  7.141586e-02  7.120227e-01  9.946863e-01
+t_cndot_r                  153404.0  6.268602e-02  1.997671e-01 -9.822494e-01 -5.850585e-01 -2.794074e-02  6.640949e-02  1.665100e-01  6.244664e-01  9.941350e-01
+t_cndot_t                  153404.0  1.286039e-03  9.901281e-02 -9.668630e-01 -2.788553e-01 -3.866036e-02  0.000000e+00  3.947040e-02  3.256153e-01  9.719031e-01
+t_cndot_n                  153404.0  2.090732e-01  4.366919e-01 -9.978275e-01 -7.510247e-01 -9.504291e-02  3.329005e-01  5.736491e-01  7.998482e-01  9.976200e-01
+t_cndot_rdot               153404.0  2.902513e-05  9.510896e-02 -9.636843e-01 -2.980384e-01 -3.784804e-02  0.000000e+00  3.851755e-02  2.680695e-01  9.668624e-01
+t_cndot_tdot               153404.0 -6.387502e-02  2.012791e-01 -9.956544e-01 -6.324961e-01 -1.680593e-01 -6.697131e-02  2.736736e-02  5.912804e-01  9.848902e-01
+c_time_lastob_start        162623.0  4.015083e+01  7.380950e+01  1.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  1.800000e+02  1.800000e+02
+c_time_lastob_end          162623.0  5.896644e-01  8.232156e-01  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  2.000000e+00  2.000000e+00
+c_recommended_od_span      162623.0  1.266358e+01  9.937063e+00  0.000000e+00  1.570000e+00  6.590000e+00  1.152000e+01  1.647000e+01  4.801000e+01  2.344100e+02
+c_actual_od_span           162623.0  1.202675e+01  7.912633e+00  0.000000e+00  1.090000e+00  6.430000e+00  1.125000e+01  1.627000e+01  4.066000e+01  1.540400e+02
+c_obs_available            162623.0  6.593337e+01  1.024203e+02  3.000000e+00  1.500000e+01  2.100000e+01  3.000000e+01  6.000000e+01  5.080000e+02  2.227000e+03
+c_obs_used                 162623.0  5.915850e+01  8.497380e+01  3.000000e+00  9.000000e+00  2.100000e+01  3.000000e+01  5.700000e+01  4.660000e+02  2.227000e+03
+c_residuals_accepted       162623.0  9.878429e+01  2.538686e+00  3.770000e+01  8.670000e+01  9.860000e+01  9.950000e+01  1.000000e+02  1.000000e+02  1.000000e+02
+c_weighted_rms             162623.0  1.978627e+00  1.136210e+00  3.560000e-01  8.470000e-01  1.503000e+00  1.891000e+00  2.300000e+00  4.418000e+00  2.372540e+02
+c_rcs_estimate             109793.0  4.616125e-01  1.700748e+00  1.000000e-04  1.300000e-03  9.200000e-03  1.310000e-02  3.200000e-02  8.115900e+00  4.460540e+01
+c_cd_area_over_mass        162634.0  7.843015e-01  2.341735e+00 -1.281786e+02  5.620000e-03  1.773615e-01  4.386600e-01  6.928110e-01  1.017378e+01  1.479127e+02
+c_cr_area_over_mass        162634.0  3.464783e-01  9.654780e-01 -7.120790e-01  0.000000e+00  5.176500e-02  1.813400e-01  3.051631e-01  4.513292e+00  5.915497e+01
+c_sedr                     162634.0  2.985191e-03  1.497627e-02 -1.072930e-01  1.346700e-05  3.275900e-04  7.032410e-04  1.541460e-03  4.300360e-02  8.761510e-01
+c_j2k_sma                  162634.0  7.200010e+03  1.287124e+03  6.643205e+03  6.797198e+03  6.991471e+03  7.070527e+03  7.141904e+03  1.233240e+04  4.166113e+04
+c_j2k_ecc                  162634.0  1.613269e-02  6.735771e-02  4.547576e-05  3.634808e-04  2.336524e-03  4.497312e-03  9.080043e-03  4.547136e-01  8.340979e-01
+c_j2k_inc                  162634.0  8.647303e+01  1.549217e+01  1.878075e+00  2.825648e+01  7.406996e+01  8.743460e+01  9.878140e+01  1.019002e+02  1.446757e+02
+c_ct_r                     162623.0 -2.174490e-01  5.013345e-01 -1.000000e+00 -9.988804e-01 -5.872541e-01 -2.369335e-01  5.337995e-02  9.935176e-01  1.000000e+00
+c_cn_r                     162623.0  1.095919e-01  4.726237e-01 -9.999366e-01 -9.410312e-01 -1.927708e-01  1.167795e-01  4.664273e-01  9.543896e-01  9.984907e-01
+c_cn_t                     162623.0  1.443342e-02  2.013551e-01 -9.993205e-01 -6.746397e-01 -4.590465e-02  2.679553e-03  6.395388e-02  7.616853e-01  9.999377e-01
+c_crdot_r                  153393.0  2.072962e-01  5.004021e-01 -1.000000e+00 -9.935578e-01 -6.670652e-02  2.353508e-01  5.686860e-01  9.987167e-01  1.000000e+00
+c_crdot_t                  153393.0 -9.814655e-01  1.205624e-01 -1.000001e+00 -1.000000e+00 -9.999899e-01 -9.998966e-01 -9.987119e-01  0.000000e+00  3.928681e-01
+c_crdot_n                  153393.0 -8.321205e-03  2.005514e-01 -9.999378e-01 -7.482502e-01 -5.968765e-02  0.000000e+00  5.011220e-02  6.747230e-01  9.993214e-01
+c_ctdot_r                  153393.0 -8.583305e-01  3.120605e-01 -1.000000e+00 -9.999938e-01 -9.984466e-01 -9.843355e-01 -8.935876e-01  7.344505e-01  9.999986e-01
+c_ctdot_t                  153393.0  1.707004e-01  3.402699e-01 -9.999473e-01 -8.369787e-01  0.000000e+00  1.414376e-01  3.251507e-01  9.900425e-01  1.000000e+00
+c_ctdot_n                  153393.0 -1.310892e-01  5.079932e-01 -9.996540e-01 -9.645336e-01 -5.411651e-01 -1.623932e-01  2.268017e-01  9.528167e-01  9.999029e-01
+c_ctdot_rdot               153393.0 -1.704591e-01  3.432826e-01 -1.000000e+00 -9.902596e-01 -3.261778e-01 -1.447265e-01  0.000000e+00  8.523392e-01  9.999473e-01
+c_cndot_r                  153393.0  1.666303e-01  4.640413e-01 -9.999868e-01 -9.304127e-01 -1.221222e-01  1.771685e-01  5.166903e-01  9.685876e-01  9.999169e-01
+c_cndot_t                  153393.0 -1.297234e-04  2.795156e-01 -9.999861e-01 -9.124222e-01 -9.761341e-02  0.000000e+00  9.857094e-02  9.108436e-01  9.999843e-01
+c_cndot_n                  153393.0  2.771718e-01  5.928325e-01 -9.999564e-01 -9.881082e-01 -1.382073e-01  4.322359e-01  7.902184e-01  9.942817e-01  9.998918e-01
+c_cndot_rdot               153393.0  2.045927e-03  2.796054e-01 -9.999843e-01 -9.114057e-01 -9.733180e-02  5.851469e-04  1.005471e-01  9.113728e-01  9.999863e-01
+c_cndot_tdot               153393.0 -1.864019e-01  4.821295e-01 -9.998429e-01 -9.762466e-01 -5.686911e-01 -2.032797e-01  1.204159e-01  9.285734e-01  9.999687e-01
+t_span                     162634.0  8.945041e+00  7.127781e+00  1.000000e-01  8.000000e-01  1.500000e+00  9.100000e+00  1.200000e+01  2.771000e+01  2.771000e+01
+c_span                     162634.0  2.343352e+00  1.607976e+00  2.000000e+00  2.000000e+00  2.000000e+00  2.000000e+00  2.000000e+00  1.000000e+01  3.045000e+01
+t_h_apo                    162634.0  6.746647e+02  1.074366e+02  2.991312e+02  4.326437e+02  6.296580e+02  7.039782e+02  7.329526e+02  8.348759e+02  8.426914e+02
+t_h_per                    162634.0  6.479033e+02  1.101382e+02  2.730728e+02  4.085481e+02  5.975202e+02  6.801837e+02  7.098789e+02  8.117685e+02  8.253501e+02
+c_h_apo                    162634.0  1.020431e+03  2.584384e+03  3.027937e+02  4.398203e+02  6.419980e+02  7.261647e+02  8.127331e+02  1.156670e+04  7.003246e+04
+c_h_per                    162634.0  6.233145e+02  1.132377e+02  1.132472e+02  3.013811e+02  5.507574e+02  6.406255e+02  7.022812e+02  8.133156e+02  8.346378e+02
+geocentric_latitude        162634.0 -6.641171e-01  6.784025e+01 -8.796955e+01 -8.591707e+01 -7.299996e+01 -1.983393e+00  7.293782e+01  8.582943e+01  8.781891e+01
+azimuth                    162634.0 -7.162339e-04  4.664279e+01 -1.128819e+02 -8.680158e+01 -3.577915e+01 -8.127866e-01  3.598938e+01  8.717761e+01  1.301588e+02
+elevation                  162634.0 -2.012889e-02  2.162808e+00 -6.639402e+01 -5.700633e+00 -1.417034e-01  3.984142e-03  1.393823e-01  4.905987e+00  5.991053e+01
+mahalanobis_distance       162634.0  1.926028e+02  4.336808e+02  4.661330e-07  2.552817e-04  2.240559e+01  7.116959e+01  1.984767e+02  1.783040e+03  1.542716e+04
+t_position_covariance_det  162634.0  1.029088e+45  8.259696e+45  1.040209e+01  2.595973e+02  4.002460e+04  6.551893e+05  9.323184e+06  6.732289e+46  6.732289e+46
+c_position_covariance_det  162634.0  1.097804e+45  8.526583e+45 -8.175633e+18  2.102288e+05  2.361871e+11  4.085519e+13  6.064418e+15  6.732288e+46  6.732289e+46
+t_sigma_r                  162634.0  9.749591e+05  7.825193e+06  6.994957e-01  1.210752e+00  3.109518e+00  4.764259e+00  7.277371e+00  6.378136e+07  6.378136e+07
+c_sigma_r                  162623.0  1.040560e+06  8.078258e+06  9.271647e-01  3.030933e+00  2.895203e+01  6.842867e+01  1.901202e+02  6.378136e+07  6.378136e+07
+t_sigma_t                  162634.0  9.753624e+05  7.825143e+06  2.598391e+00  6.643994e+00  3.277694e+01  8.588844e+01  1.993290e+02  6.378136e+07  6.378136e+07
+c_sigma_t                  162623.0  1.071755e+06  8.084419e+06  4.976329e+00  3.759986e+01  1.026256e+03  3.965313e+03  1.389799e+04  6.378136e+07  7.654883e+07
+t_sigma_n                  162634.0  9.749556e+05  7.825193e+06  7.322260e-01  1.040858e+00  1.557889e+00  2.058926e+00  3.187069e+00  6.378136e+07  6.378136e+07
+c_sigma_n                  162623.0  1.040225e+06  8.078298e+06  9.162687e-01  1.933375e+00  1.686151e+01  3.996251e+01  9.883298e+01  6.378136e+07  6.378136e+07
+t_sigma_rdot               153404.0  1.227348e+03  9.772058e+03  2.528387e-03  7.048668e-03  3.227877e-02  8.613491e-02  1.968664e-01  7.905366e+04  7.905366e+04
+c_sigma_rdot               153393.0  1.160846e+03  9.380364e+03  5.292641e-03  3.834105e-02  1.060133e+00  4.034127e+00  1.419301e+01  7.905366e+04  8.008198e+04
+t_sigma_tdot               153404.0  1.227007e+03  9.772101e+03  7.236350e-04  1.255374e-03  3.197460e-03  4.896371e-03  7.427804e-03  7.905366e+04  7.905366e+04
+c_sigma_tdot               153393.0  1.127805e+03  9.373970e+03  1.005638e-03  2.986763e-03  2.663624e-02  5.914259e-02  1.540832e-01  7.905366e+04  7.905366e+04
+t_sigma_ndot               153404.0  1.227004e+03  9.772101e+03  9.461257e-04  1.363165e-03  2.702443e-03  3.363918e-03  4.264073e-03  7.905366e+04  7.905366e+04
+c_sigma_ndot               153393.0  1.127809e+03  9.373970e+03  1.410190e-03  2.934243e-03  2.810896e-02  6.561742e-02  1.676672e-01  7.905366e+04  7.905366e+04
+F10                        155812.0  7.809585e+01  1.470171e+01  6.600000e+01  6.600000e+01  6.900000e+01  7.200000e+01  8.000000e+01  1.350000e+02  2.460000e+02
+F3M                        155812.0  7.904908e+01  1.407777e+01  6.900000e+01  6.900000e+01  7.100000e+01  7.400000e+01  8.200000e+01  1.470000e+02  1.590000e+02
+SSN                        155812.0  2.058948e+01  2.536525e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.300000e+01  3.000000e+01  1.030000e+02  1.720000e+02
+AP                         155812.0  8.608034e+00  8.453693e+00  0.000000e+00  1.000000e+00  4.000000e+00  6.000000e+00  1.000000e+01  4.400000e+01  1.080000e+02
+
+=================================================================
+8. EVENT GROUPING
+=================================================================
+Unique event_id values: 13154
+Rows per event_id:
+count    13154.000000
+mean        12.363844
+std          7.512551
+min          1.000000
+25%          5.000000
+50%         13.000000
+75%         20.000000
+max         23.000000
+
+Most frequent event_id values:
+event_id
+5319     23
+7088     23
+11942    23
+66       22
+220      22
+278      22
+339      22
+346      22
+389      22
+661      22
+
+=================================================================
+9. POSSIBLE TARGET / LEAKAGE WARNING
+=================================================================
+This report does NOT assume event_id is a class label.
+Do not use risk or max_risk_estimate as input features if
+your target is derived from those same values.
+Inspect dataset documentation to confirm target semantics
+and whether every feature is available at prediction time.
+
+=================================================================
+10. SAVE REPORT DATA
+=================================================================
+Saved missing_values_report.csv
+Saved dataset_sample.csv
